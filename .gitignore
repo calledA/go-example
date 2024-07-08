@@ -21,6 +21,6 @@
 go.work
 go.work.sum
 
-# ide workspace file
+# ide file
 .idea
 
